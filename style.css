@@ -87,13 +87,13 @@ header img {
 
 nav p {
   margin:0;
-  font-size:.15rem;
+  font-size:.7rem;
   display:flex;
   flex-wrap:wrap;
   gap:.75rem;
 }
 nav a {
-  padding:.35rem .5rem;
+  padding:.38rem .7rem;
   border-radius:6px;
   transition: var(--transition);
 }
